@@ -1,5 +1,9 @@
 # #9 Base64 인코더/디코더
 
+> ⚠️ **개발 시작 전 필독!**
+> 전역 개발 가이드: [`../_template/README.md`](../_template/README.md)
+> Phase 1 버그, 체크리스트, 크로스 프로모션 도구 버튼 구현 확인 필수!
+
 **URL:** base64.baal.co.kr
 
 ## 서비스 내용
